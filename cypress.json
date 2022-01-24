@@ -1,4 +1,9 @@
 {
     "chromeWebSecurity": false,
-    "projectId": "m8vp7d"
+    "projectId": "m8vp7d",
+    "retries": {
+        "runMode": 2,
+        "openMode": 2
+    },
+    "video": true
 }

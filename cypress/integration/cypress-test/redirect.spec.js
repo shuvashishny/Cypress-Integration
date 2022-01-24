@@ -1,4 +1,5 @@
-
+//for redirect web security must be disable
+//to see the video, run the test using command
 describe('Redirect', () => {
     it('first test', () => {
         cy.visit('https://www.google.com/');
